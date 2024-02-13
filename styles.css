@@ -104,7 +104,11 @@ blockquote p, .author{
 
 
 @media (max-width: 899px) {
-    img{
+    img {
         display: none;
+    }
+
+    body{
+        margin-left: 12.5px;
     }
 }
