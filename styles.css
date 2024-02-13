@@ -101,3 +101,10 @@ blockquote p, .author{
     bottom: 100px;
 
 }
+
+
+@media (max-width: 899px) {
+    img{
+        display: none;
+    }
+}
