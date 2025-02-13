@@ -10,8 +10,8 @@ img{
 body{
     font-family: 'Helvetica', 'sans-serif';
     /* font-family: Baskerville; */
-    background-color: rgb(255, 199, 234);
-    color: red;
+    background-color: rgb(78, 105, 241);
+    color: rgb(255, 255, 255);
 }
 
 blockquote{
